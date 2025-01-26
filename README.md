@@ -52,22 +52,9 @@ Identified key factors influencing survival, such as gender, passenger class, an
 Conclusion
 This project highlights the importance of feature engineering and data preprocessing in improving model performance. Future improvements may include advanced hyperparameter tuning, ensemble methods, or using deep learning techniques.
 # How_to_Run_the_Code
-
 1. Clone the repository.
-
 git clone https://colab.research.google.com/drive/1W1d_xJvU95J2fOXLt7kmkhh9_q228aRP  
 cd Titanic-Dataset-Analysis
-
-
-2. Install dependencies.
-
-pip install -r requirements.txt
-
-
-3. Run the notebook or script.
-
-
-
-Acknowledgments
-
+2.  Run the notebook or script.
+# Acknowledgments
 Kaggle for providing the Titanic dataset.
