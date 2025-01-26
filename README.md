@@ -1,4 +1,4 @@
-# itanic_Dataset_Project
+# Titanic_Dataset_Project
 [Overview]
 This project involves analyzing the Titanic dataset to predict the survival of passengers based on various features such as age, gender, passenger class, and more. The project is a part of a data science learning journey and focuses on data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning modeling.
 #Dataset
